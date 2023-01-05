@@ -1,3 +1,19 @@
 body {
     text-align: justify;
+    background-color: antiquewhite;
+    font-family: monospace,sans-serif;
+    font-size:  14px;
+
+}
+
+h1{
+    font-size: 40px;
+    text-align:center;
+}
+h2{
+    font-size: 30px;
+    text-align:center;
+}
+img{
+    border-radius: 10px;
 }
